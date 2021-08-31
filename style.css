@@ -66,6 +66,7 @@
     box-sizing: border-box;
 }
 footer{
+    color: white;
     background-color: rgb(12, 12, 12);
     padding-top: 50px;
     padding-bottom: 50px;
